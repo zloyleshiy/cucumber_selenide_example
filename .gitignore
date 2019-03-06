@@ -1,4 +1,4 @@
-./selenide_cucumber/build/
+./selenide_cucumber/build/*
 ./selenide_cucumber/target/
 .idea/
 *.iml
